@@ -7,7 +7,7 @@ I'm Louise Dennis.  I'm a Computer Scientist at the University of Manchester whe
 
 * [Work Website](http://www.cs.man.ac.uk/~dennisl/index.html)
 * [Personal Website](https://www.dennis-sellers.com)
-* [Doctor Whorlde](https://louiseadennis.github.io/doctor-whordle/) - Doctor Who themed wordle clone
+* [Doctor Whordle](https://louiseadennis.github.io/doctor-whordle/) - Doctor Who themed wordle clone
 * [MCAPL Framework](https://autonomy-and-verification.github.io/tools/mcapl)
 
 </div>
