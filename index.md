@@ -1,8 +1,3 @@
----
-layout: page
-title: Home
----
-
 <article class="row">
 
 <section class="columns small-12 large-7" >
